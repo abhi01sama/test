@@ -8,6 +8,7 @@ ReactDOM.render(
   <StrictMode>
     <ChakraProvider>
       <App />
+	  fjsdhkfkfdk
     </ChakraProvider>
   </StrictMode>,
   rootElement
